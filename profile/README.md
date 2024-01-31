@@ -14,19 +14,19 @@ Adicionalmente puede encontrar el syllabus del curso [aquí](https://github.com/
 
 ### Repositorios
 - **clase-01:** Introducción al curso. [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-01/)
-- **clase-02:** Fundamentos de programación 
-- **clase-03:** Estructuras de datos en R 
-- **clase-04:** Leer y escribir conjuntos de datos
-- **clase-05:** Github
-- **clase-06:** Data Wrangling en R
-- **clase-07-08:** Combinar y describir/resumir un conjunto de datos
+- **clase-02:** Fundamentos de programación. [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-02/) 
+- **clase-03:** Estructuras de datos en R. 
+- **clase-04:** Leer y escribir conjuntos de datos.
+- **clase-05:** Github.
+- **clase-06:** Data Wrangling en R.
+- **clase-07-08:** Combinar y describir/resumir un conjunto de datos.
 - **clase-09:** Visualización de información: `ggplot`
-- **clase-10:** Loops y Familia Apply
-- **clase-11:** Introducción a datos GIS
-- **clase-12:** Introducción a web-scraping
-- **clase-13:** Rmarkdown
-- **clase-14:** Regresiones
-- **clase-15:** Datos Raster
+- **clase-10:** Loops y Familia Apply.
+- **clase-11:** Introducción a datos GIS.
+- **clase-12:** Introducción a web-scraping.
+- **clase-13:** Rmarkdown.
+- **clase-14:** Regresiones.
+- **clase-15:** Datos Raster.
 
 ### Task and problem-set
 
