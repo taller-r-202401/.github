@@ -18,7 +18,7 @@ Adicionalmente puede encontrar el syllabus del curso [aquí](https://github.com/
 - **clase-03:** Estructuras de datos en R. [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-03/) 
 - **clase-04:** Leer y escribir conjuntos de datos. [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-04/) - [[repositorio]](https://github.com/taller-r-202401/clase-04) 
 - **clase-05:** Github. [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-05/) - [[repositorio]](https://github.com/taller-r-202401/clase-05) 
-- **clase-06:** Data Wrangling en R.
+- **clase-06:** Introducción a Data Wrangling en R. [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-06/) - [[repositorio]](https://github.com/taller-r-202401/clase-06) 
 - **clase-07-08:** Combinar y describir/resumir un conjunto de datos.
 - **clase-09:** Visualización de información: `ggplot`
 - **clase-10:** Loops y Familia Apply.
