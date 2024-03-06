@@ -19,8 +19,9 @@ Adicionalmente puede encontrar el syllabus del curso [aquí](https://github.com/
 - **clase-04:** Leer y escribir conjuntos de datos. [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-04/) - [[repositorio]](https://github.com/taller-r-202401/clase-04) 
 - **clase-05:** Github. [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-05/) - [[repositorio]](https://github.com/taller-r-202401/clase-05) 
 - **clase-06:** Data Wrangling en R. [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-06/) - [[repositorio]](https://github.com/taller-r-202401/clase-06) 
-- **clase-07-08:** Combinar y describir. [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-07/) - [[repositorio]](https://github.com/taller-r-202401/clase-07) 
-- **clase-09:** Visualización de información: `ggplot` [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-08/) - [[repositorio]](https://github.com/taller-r-202401/clase-08) 
+- **clase-07:** Combinar y describir. [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-07/) - [[repositorio]](https://github.com/taller-r-202401/clase-07)
+- **clase-08:** Agrupar conjuntos de datos. [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-08/) - [[repositorio]](https://github.com/taller-r-202401/clase-08) 
+- **clase-09:** Visualización de información: `ggplot`
 - **clase-10:** Loops y Familia Apply.
 - **clase-11:** Introducción a datos GIS.
 - **clase-12:** Introducción a web-scraping.
