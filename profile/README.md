@@ -21,7 +21,7 @@ Adicionalmente puede encontrar el syllabus del curso [aquí](https://github.com/
 - **clase-06:** Data Wrangling en R. [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-06/) - [[repositorio]](https://github.com/taller-r-202401/clase-06) 
 - **clase-07:** Combinar conjuntos de datos. [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-07/) - [[repositorio]](https://github.com/taller-r-202401/clase-07)
 - **clase-08:** Agrupar conjuntos de datos. [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-08/) - [[repositorio]](https://github.com/taller-r-202401/clase-08) 
-- **clase-09:** Visualización de información: `ggplot`
+- **clase-09:** Visualización de información: `ggplot` [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-09/) - [[repositorio]](https://github.com/taller-r-202401/clase-09) 
 - **clase-10:** Loops y Familia Apply.
 - **clase-11:** Introducción a datos GIS.
 - **clase-12:** Introducción a web-scraping.
