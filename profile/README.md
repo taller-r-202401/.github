@@ -22,12 +22,12 @@ Adicionalmente puede encontrar el syllabus del curso [aquí](https://github.com/
 - **clase-07:** Combinar conjuntos de datos. [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-07/) - [[repositorio]](https://github.com/taller-r-202401/clase-07)
 - **clase-08:** Agrupar conjuntos de datos. [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-08/) - [[repositorio]](https://github.com/taller-r-202401/clase-08) 
 - **clase-09:** Visualización de información: `ggplot` [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-09/) - [[repositorio]](https://github.com/taller-r-202401/clase-09) 
-- **clase-10:** Loops y Familia Apply.
+- **clase-10:** Loops y Familia Apply. [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-10/) - [[repositorio]](https://github.com/taller-r-202401/clase-10) 
 - **clase-11:** Introducción a datos GIS.
-- **clase-12:** Introducción a web-scraping.
+- **clase-12:** Regresiones. 
 - **clase-13:** Rmarkdown.
-- **clase-14:** Regresiones.
-- **clase-15:** Datos Raster.
+- **clase-14:** Introducción a web-scraping. 
+- **clase-15:** Datos Raster. 
 
 ### Task and problem-set
 
