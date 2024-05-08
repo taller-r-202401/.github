@@ -24,9 +24,9 @@ Adicionalmente puede encontrar el syllabus del curso [aquí](https://github.com/
 - **clase-09:** Visualización de información: `ggplot` [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-09/) - [[repositorio]](https://github.com/taller-r-202401/clase-09) 
 - **clase-10:** Loops y Familia Apply. [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-10/) - [[repositorio]](https://github.com/taller-r-202401/clase-10) 
 - **clase-11:** Introducción a datos GIS. [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-11/) - [[repositorio]](https://github.com/taller-r-202401/clase-11) 
-- **clase-12:** Regresiones. 
+- **clase-12:** Introducción a web-scraping. [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-12/) - [[repositorio]](https://github.com/taller-r-202401/clase-12) 
 - **clase-13:** Rmarkdown.
-- **clase-14:** Introducción a web-scraping. 
+- **clase-14:** Regresiones. 
 - **clase-15:** Datos Raster. 
 
 ### Task and problem-set
