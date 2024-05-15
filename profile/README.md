@@ -26,9 +26,9 @@ Adicionalmente puede encontrar el syllabus del curso [aquí](https://github.com/
 - **clase-11:** Introducción a datos GIS. [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-11/) - [[repositorio]](https://github.com/taller-r-202401/clase-11) 
 - **clase-12:** Introducción a web-scraping. [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-12/) - [[repositorio]](https://github.com/taller-r-202401/clase-12)
 - **bono-clase-12:** Aplicación web-scraping [[video]](https://youtu.be/hT6m_isdXjI) - [[repositorio]](https://github.com/taller-r-202401/bono-clase-12)
-- **clase-13:** Rmarkdown.
-- **clase-14:** Regresiones. 
-- **clase-15:** Datos Raster. 
+- **clase-13:** Rmarkdown. [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-13/) - [[repositorio]](https://github.com/taller-r-202401/clase-13)
+- **clase-14:** Regresiones. [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-14/) - [[repositorio]](https://github.com/taller-r-202401/clase-14)
+- **clase-15:** Datos Raster. [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-14/) - [[repositorio]](https://github.com/taller-r-202401/clase-15)
 
 ### Task and problem-set
 
